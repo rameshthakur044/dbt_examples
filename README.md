@@ -1,3 +1,3 @@
 # dbt_examples
 
-Smaple Models for DBT
+Sample Models for DBT
